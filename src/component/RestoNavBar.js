@@ -8,7 +8,7 @@ export default function RestoNavBar() {
   return (
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Resto Mini</Navbar.Brand>
+        <Navbar.Brand onClick={() => navigate("/")}>Resto Mini</Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link onClick={() => navigate("/product")}>Menu</Nav.Link>
         </Nav>
