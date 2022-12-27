@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Lumpia semarang adalah makanan semacam rollade yang berisi rebung, telur, dan daging ayam atau udang. ",
+        "id": 1,
+        "image": "https://img.okezone.com/content/2015/07/01/298/1174742/resep-gorengan-lunpia-semarang-yang-renyah-2R7cLnRr7m.jpg",
+        "name": "Lumpia",
+        "price": 13000
+    },
+    {
+        "description": "Rendang merupakan olahan daging atau telur yang dimasak dalam suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan.",
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL8KRA4SEc0W2wJ9VIu6m-uIklb2DISDDg0Q&usqp=CAU",
+        "name": "Rendang",
+        "price": 25000
+    },
+    {
+        "description": "Gulai atau Gule adalah Masakan berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah .",
+        "id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfV64tiJWfz6GfAb-DHwhD6vncEniLtQmzg&usqp=CAU",
+        "name": "Gulai",
+        "price": 17000
+    }
+]
